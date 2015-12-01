@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebFotografias</string>
+    <string name="bt_ok">ok!</string>
+    <string name="control">Procesando ...</string>
+</resources>
